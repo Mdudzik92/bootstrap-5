@@ -17,9 +17,9 @@ This is a web page for a business designed with Bootstrap 5. It's completely res
 
 <!-- Screenshot -->
 
-<img src="./img1.png">
-<img src="./img2.png">
-<img src="./img3.png">
+<img src="./img/img1.png">
+<img src="./img/img2.png">
+<img src="./img/img3.png">
 
 <!-- License -->
 
